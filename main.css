@@ -1,37 +1,41 @@
 body { background:#EAEBED;
+    align-items: center;
 }
 
 img {display: inline-block;
     width: 400px; 
-    width: 400px;
-    height: 700px;
-    float: left;
+    height: 600px;
     object-fit: contain;
-    margin-top: 200px;
-      
-}
+    float: left;
+    margin-left: 10%;
+      }
 div {
     display: inline-block;
     width: 50%;
     float: left;
     text-align: center;
     font-size: 20px;
+    margin-top: 100px;
+    color: #8185A0;
 
 }
 
     h1{
         display: inline-block;
-        width: 100%;
-        margin: 0;
+        width: 50%;
         font-size: 100px;
-        line-height: 80px;
-
+        margin: 0;
+        color: #343E48;
+        font-family:Impact, Haettenschweiler, 
+        sans-serif;
     }
     p{
         display: inline-block;
         width: 100%;
         margin: 0;
         margin-bottom: 20px;
+        font-family: Impact, Haettenschweiler, 
+        sans-serif;
 
     }
   
